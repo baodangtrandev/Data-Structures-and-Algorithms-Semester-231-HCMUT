@@ -1,0 +1,1606 @@
+MAXSIZE 25
+LAPSE ruahqzbyluBeobgxytkhadbnhdrtjcorjirkisrRrwqtaeyxf
+[Debug] Result=464
+SRestaurant: ID 15  Customer: 464
+---------------------------------------------------
+[ID 15 COUNT 1 TIME 0]	
+---------------------------------------------------
+LAPSE fiqalmjqdkn
+[Debug] Result=203
+LAPSE yeyqrddjhstkgizpnangrkmigmookcgpcfsjwiikbbhednrcNkqm
+[Debug] Result=823
+LAPSE Qy
+LAPSE uqyfzvmtdghlefrqAckMgzoelaewufeckbudaeOkzwoiolppxpggeeoq
+[Debug] Result=951
+LAPSE mjmdaXujdmlumzmcl
+[Debug] Result=406
+SRestaurant: ID 7  Customer: 406
+---------------------------------------------------
+[ID 15 COUNT 1 TIME 0]	[ID 7 COUNT 1 TIME 1]	
+---------------------------------------------------
+LAPSE x
+LAPSE vdiilay
+[Debug] Result=46
+SRestaurant: ID 22  Customer: 46
+---------------------------------------------------
+[ID 15 COUNT 1 TIME 0]	[ID 7 COUNT 1 TIME 1]	[ID 22 COUNT 1 TIME 2]	
+---------------------------------------------------
+HAND
+z
+3
+k
+7
+b
+2
+e
+4
+m
+2
+w
+LAPSE xdoidzecxisrnhlfeoysluiyeejkkwtinsmhvurctotjmzexxlqmsplriyicjzjuzmdiprmpc
+[Debug] Result=839
+CLEAVE 8
+15-464
+7-406
+22-46
+LAPSE ohrpgzpqtJqpqtqpjhxfmhrdihfpxerztohlgtksnhefxewyxpcygurhqxl
+[Debug] Result=159
+LAPSE wgtyoxgUzqnmmynyfcugydpwBukfvuxjqpgwlyaqooetheXcfnxoclrbcjsfseppjdtvdf
+[Debug] Result=672
+SRestaurant: ID 23  Customer: 672
+---------------------------------------------------
+[ID 15 COUNT 1 TIME 0]	[ID 7 COUNT 1 TIME 1]	[ID 22 COUNT 1 TIME 2]	[ID 23 COUNT 1 TIME 3]	
+---------------------------------------------------
+LAPSE jtzenfz
+[Debug] Result=700
+SRestaurant: ID 1  Customer: 700
+---------------------------------------------------
+[ID 15 COUNT 1 TIME 0]	[ID 7 COUNT 1 TIME 1]	[ID 22 COUNT 1 TIME 2]	[ID 23 COUNT 1 TIME 3]	[ID 1 COUNT 1 TIME 4]	
+---------------------------------------------------
+LAPSE odoaciirnivnyiu
+[Debug] Result=481
+LAPSE HmdfoqcwhwwhxidbmrczlmkxlitvofcnqxkclwzfepjpkygysphdntkmttthQjrrJphstuzutcd
+[Debug] Result=68
+SRestaurant: ID 19  Customer: 68
+---------------------------------------------------
+[ID 15 COUNT 1 TIME 0]	[ID 7 COUNT 1 TIME 1]	[ID 22 COUNT 1 TIME 2]	[ID 23 COUNT 1 TIME 3]	[ID 1 COUNT 1 TIME 4]	[ID 19 COUNT 1 TIME 5]	
+---------------------------------------------------
+LAPSE sqwhfbrgcjourfkvawehvopruvbteropajtrunameymhqhahktuUnzdvhsbjrkjjsjssixqnoagUjTozbirgzhwfqlusmrbv
+[Debug] Result=914
+SRestaurant: ID 15  Customer: 914
+---------------------------------------------------
+[ID 7 COUNT 1 TIME 1]	[ID 23 COUNT 1 TIME 3]	[ID 22 COUNT 1 TIME 2]	[ID 15 COUNT 2 TIME 6]	[ID 1 COUNT 1 TIME 4]	[ID 19 COUNT 1 TIME 5]	
+---------------------------------------------------
+LAPSE yiarvteymegdwusxtlatbgujyrfmqdacrsmorbjwjxdmwfaevlqiqnyemkmxddkqcoInZdhzm
+[Debug] Result=239
+LAPSE agwraxlyducsxvwiufsrqrAnkvnbcpxnndjdmrmsb
+[Debug] Result=946
+SRestaurant: ID 22  Customer: 946
+---------------------------------------------------
+[ID 7 COUNT 1 TIME 1]	[ID 23 COUNT 1 TIME 3]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 1 COUNT 1 TIME 4]	[ID 22 COUNT 2 TIME 7]	
+---------------------------------------------------
+LAPSE etagvehhiygVwebedcbbevEnpmranubzmckkHgisWzgqnylwvxqxbxqkckzoymxxtt
+[Debug] Result=495
+LAPSE xcuxvzv
+[Debug] Result=626
+SRestaurant: ID 2  Customer: 626
+---------------------------------------------------
+[ID 7 COUNT 1 TIME 1]	[ID 23 COUNT 1 TIME 3]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 1 COUNT 1 TIME 4]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	
+---------------------------------------------------
+LAPSE efuflkoAgxYwvdpamuimwezymwclgpdlanmlxVspwkfnwevsilklfddqrcxsykwqhlzllcvaxlxvvvkmtcctdoj
+[Debug] Result=81
+LAPSE ynhqhenunbzugmfmxmgwmCdtsaOyxmd
+[Debug] Result=917
+LAPSE heumpjQjsotqczganajcnimsizbbodeisyyeiuycurtacarqhqphwudYtvkdDwmqyknrxjnpoakb
+[Debug] Result=322
+SRestaurant: ID 23  Customer: 322
+---------------------------------------------------
+[ID 7 COUNT 1 TIME 1]	[ID 1 COUNT 1 TIME 4]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 23 COUNT 2 TIME 9]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	
+---------------------------------------------------
+LAPSE tietzyz
+[Debug] Result=549
+LAPSE cynbtupsryminkuttihgrgjxOgfneveoktvnojwctzvhZarminyobhsEyhpoiwptqeuswiqWhmew
+[Debug] Result=475
+LAPSE wmtuccsFczpzjdTzqrylxfhWchrflylqimbcenJgzhGhsotevycufbNx
+[Debug] Result=391
+LAPSE faqfmzhqcfzwdjxnahzormfajpkfmfqanuzzvnnxvdmmomxnazpRuzfb
+[Debug] Result=349
+LAPSE zgjzkzvohneyqwrsnilIywnjbjdtejqcdtUljzjpdgruqizaixedzshcsuxoalsjzkogqIkudtuyyoskitgyxjkxg
+[Debug] Result=678
+SRestaurant: ID 4  Customer: 678
+---------------------------------------------------
+[ID 7 COUNT 1 TIME 1]	[ID 1 COUNT 1 TIME 4]	[ID 19 COUNT 1 TIME 5]	[ID 4 COUNT 1 TIME 10]	[ID 23 COUNT 2 TIME 9]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	[ID 15 COUNT 2 TIME 6]	
+---------------------------------------------------
+LAPSE idrfviwfjflxpqgmsnlwohmzrmmsofihhfwauhrqmeIXmaonwci
+[Debug] Result=656
+SRestaurant: ID 7  Customer: 656
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 23 COUNT 2 TIME 9]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	[ID 7 COUNT 2 TIME 11]	
+---------------------------------------------------
+LAPSE uririgUmwxsorgydhuoujiwuepzwhiseFtpvcmvwzistsnhvsZkxlyj
+[Debug] Result=984
+SRestaurant: ID 10  Customer: 984
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 10 COUNT 1 TIME 12]	[ID 23 COUNT 2 TIME 9]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	[ID 7 COUNT 2 TIME 11]	[ID 15 COUNT 2 TIME 6]	
+---------------------------------------------------
+LAPSE kfnrmijespsskwzIuaoznvq
+[Debug] Result=261
+LAPSE aowtnfkhlirkezeudtwgjsyx
+[Debug] Result=565
+LIMITLESS 26
+LAPSE vgwAeeloyklr
+[Debug] Result=1005
+LAPSE sszpugwyNkk
+[Debug] Result=723
+LAPSE qhrfxlnpxpz
+[Debug] Result=410
+SRestaurant: ID 11  Customer: 410
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 10 COUNT 1 TIME 12]	[ID 11 COUNT 1 TIME 13]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	[ID 7 COUNT 2 TIME 11]	[ID 15 COUNT 2 TIME 6]	[ID 23 COUNT 2 TIME 9]	
+---------------------------------------------------
+LAPSE lxwsjtklyunzvegwhubypnmifwydqbszbffdgmyjnhcgsdfzaDhlqrba
+[Debug] Result=935
+LAPSE bkhvxulwllyttwuehxcvsgsktlmejofqluXobsghtcoeyhwiobrtliutpclkhknpkezaofhs
+[Debug] Result=497
+LAPSE cxgosiatudmwgtsmfeiettwwkFohtdxmit
+[Debug] Result=925
+LAPSE alkawxechbtkhizdemhgfxll
+[Debug] Result=547
+LAPSE gi
+LAPSE bpicklfyfaawogkpuhgfdlncctdqcsehboycse
+[Debug] Result=848
+SRestaurant: ID 24  Customer: 848
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 10 COUNT 1 TIME 12]	[ID 11 COUNT 1 TIME 13]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	[ID 7 COUNT 2 TIME 11]	[ID 15 COUNT 2 TIME 6]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	
+---------------------------------------------------
+LAPSE yxvfpecmeqasgmigeoibjytdfdhjdcfvhczryeKctufgitpeizutzulckvufxgcscv
+[Debug] Result=184
+SRestaurant: ID 10  Customer: 184
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 1 TIME 8]	[ID 7 COUNT 2 TIME 11]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	
+---------------------------------------------------
+LAPSE hrxlgshcktopptgfuobLxbzsgUqdjlXlwlrbvvhmvuOYjmklooupbggWyxjtakaezytfuhpkhsnogpfjgnoo
+[Debug] Result=887
+LAPSE igoHznkcxkbxkelvulrisffEudtxfqwdWjjxbkspqahuwjcmcaoxgqscxjfrvfjdcUxpjpekpiwdkitkieiyxgg
+[Debug] Result=726
+SRestaurant: ID 2  Customer: 726
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 22 COUNT 2 TIME 7]	[ID 2 COUNT 2 TIME 16]	[ID 7 COUNT 2 TIME 11]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	
+---------------------------------------------------
+LAPSE if
+LAPSE drvkcgdoqzBzCfreahtcnngpqatswnerbvkkdepnwnfydhuzncdxyhlwwbrGutllkookwqq
+[Debug] Result=33
+LAPSE lbjrzyefgydadjgassihkm
+[Debug] Result=797
+LAPSE wsbcsmuHgdyrnVh
+[Debug] Result=66
+SRestaurant: ID 17  Customer: 66
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 17 COUNT 1 TIME 17]	[ID 2 COUNT 2 TIME 16]	[ID 7 COUNT 2 TIME 11]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	[ID 22 COUNT 2 TIME 7]	
+---------------------------------------------------
+LAPSE bpodzgwnofhscsnlmalivakahgpcypyorbhyeigbfdudfneqaFdefumpluemswxqkfnpdxgnnea
+[Debug] Result=561
+LAPSE bkqltlvozfmvmigxsyfnyk
+[Debug] Result=757
+LAPSE cwokksbuj
+[Debug] Result=336
+SRestaurant: ID 12  Customer: 336
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 17 COUNT 1 TIME 17]	[ID 2 COUNT 2 TIME 16]	[ID 7 COUNT 2 TIME 11]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	[ID 22 COUNT 2 TIME 7]	[ID 12 COUNT 1 TIME 18]	
+---------------------------------------------------
+LAPSE vsnxfvpsrdXvvcwydwunolkimooKUasameuslhshijbbzejadmiertrkfSswbbqwpfbeszXrbebgggumpp
+[Debug] Result=547
+LAPSE dhjrntlYnqdvmisiwsvbindlshaquSlbxjswpn
+[Debug] Result=308
+SRestaurant: ID 9  Customer: 308
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 17 COUNT 1 TIME 17]	[ID 9 COUNT 1 TIME 19]	[ID 7 COUNT 2 TIME 11]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	[ID 22 COUNT 2 TIME 7]	[ID 12 COUNT 1 TIME 18]	[ID 2 COUNT 2 TIME 16]	
+---------------------------------------------------
+LAPSE gfehzlmzvfnebFdcyqahiepbstcmzmcsmipvzfwxnhqxmbmefsvwsvjnsthm
+[Debug] Result=227
+LAPSE tfhyhyfqugqsnnbkvsksuhxhqpcuqquwdinfcmlyshtCaiwnugkdpwXvsjdkknxhtukrjaxgykwrnzqh
+[Debug] Result=1017
+LAPSE nbdvawgynwdpmx
+[Debug] Result=183
+LAPSE ldzsqkqsfqbgnhdanoqllfzymdfvlrvxkovweeguiafzkrnwmsfckUockyxhpd
+[Debug] Result=665
+LAPSE ujtpogdCAydqrfowwmqpjhexnkqngmiQQbrJixbztrfqufptaakqtzktvsjV
+[Debug] Result=303
+LAPSE gzcXxkggcgsrgoJevbwcmcugelmbphsrfknvmtzdjltcyqazhsfQsakyjyrbipygptfymdcbvpiyahycsHezkcmdbvxcra
+[Debug] Result=193
+LAPSE quedpcfjrdletmhdigOkaibibghxbaxuo
+[Debug] Result=506
+SRestaurant: ID 7  Customer: 506
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 19 COUNT 1 TIME 5]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 17 COUNT 1 TIME 17]	[ID 9 COUNT 1 TIME 19]	[ID 7 COUNT 3 TIME 20]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	[ID 22 COUNT 2 TIME 7]	[ID 12 COUNT 1 TIME 18]	[ID 2 COUNT 2 TIME 16]	
+---------------------------------------------------
+LAPSE f
+LAPSE gDjgyggdyfbxuvxmhrtxdhirbnwsfpdvohgxxdbrj
+[Debug] Result=79
+LAPSE qlbctolclbszohgijxtrdfrtgrdinbdReuudiqrdhjcyc
+[Debug] Result=218
+SRestaurant: ID 19  Customer: 218
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 7 COUNT 3 TIME 20]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	
+---------------------------------------------------
+LAPSE fbqksvzpowjfq
+[Debug] Result=227
+LAPSE ltallzzPglduxnxpdubpcsqozcfjglXucxaNspnay
+[Debug] Result=551
+LIMITLESS 17
+391
+LAPSE wiuhtcjxicthikzugzcpwyqkg
+[Debug] Result=877
+LAPSE klyAbYxydwusuVdbopqtEairqGvzudexyboxkwwsihcqbcnjxwhwtouveqqrvbemeobiulwqmyubr
+[Debug] Result=694
+SRestaurant: ID 20  Customer: 694
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 15 COUNT 2 TIME 6]	[ID 11 COUNT 1 TIME 13]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 7 COUNT 3 TIME 20]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 24 COUNT 1 TIME 14]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 20 COUNT 1 TIME 22]	
+---------------------------------------------------
+LAPSE bjawqorfunkaLmlmuxkhfoqulxyxpgpMih
+[Debug] Result=1023
+LAPSE pqwcpboGodlsxmxmrfkoxnxpfiwxEglrgnbwrkdihuezUqxqriyiuIdpsdNhgifpKlxqttsuqiljoclgpwqhrAzyrMck
+[Debug] Result=379
+LAPSE cvokbvinqyrvrlbbpmefzfclvvjykvwkzaqxgsi
+[Debug] Result=511
+LAPSE xfmjptgedqtilcqpoybxup
+[Debug] Result=447
+LAPSE oesegcizwccqfkwgmboe
+[Debug] Result=510
+SRestaurant: ID 11  Customer: 510
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 15 COUNT 2 TIME 6]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 7 COUNT 3 TIME 20]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 20 COUNT 1 TIME 22]	
+---------------------------------------------------
+LAPSE catepvgrpckjntgjcghktddwyxgufabcuNjamqoitvjqzlidIjRdpyirqjqbqi
+[Debug] Result=461
+LAPSE txfcZgaGehlagzugzdfxsyuieikmwojylmubbcoxylrmbdkoszSdmzvkrwlpgmkfeuniobtaxwnncpkdujreqbgsxmvribtavxee
+[Debug] Result=749
+LAPSE uidobitxacfwppqnugyyobjnrqncbgo
+[Debug] Result=387
+LAPSE uqtfizdnxygrnsqjzzbjxemnqleuhihrf
+[Debug] Result=307
+LAPSE msefbzlmosCykMbqscyxczuzbebmmxnvofncnycahpopyoiugionxotzwcm
+[Debug] Result=865
+LAPSE utoioenrxsinsvfzicEtvpsefevveztouibnHiuuaexxxycgwmphlbByobqzpjpumkxiqCcddhnhjypoiaajndpybluyfo
+[Debug] Result=115
+LAPSE jgzla
+[Debug] Result=940
+SRestaurant: ID 16  Customer: 940
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 20 COUNT 1 TIME 22]	[ID 7 COUNT 3 TIME 20]	
+---------------------------------------------------
+LAPSE izhaqtxsdgxggbjtweomjyruytxthhyvicpepwlwdlmxrvwevHaizbtyzthj
+[Debug] Result=6
+SRestaurant: ID 7  Customer: 6
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 20 COUNT 1 TIME 22]	[ID 7 COUNT 4 TIME 25]	
+---------------------------------------------------
+LAPSE NwrjcckdzkusumiQgQce
+[Debug] Result=432
+SRestaurant: ID 8  Customer: 432
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 8 COUNT 1 TIME 26]	[ID 10 COUNT 2 TIME 15]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 20 COUNT 1 TIME 22]	[ID 7 COUNT 4 TIME 25]	[ID 15 COUNT 2 TIME 6]	
+---------------------------------------------------
+LAPSE ovhraBfrqzkbgiwgexctqxpyaauoaiamtbryazothzvqzsbzfftpwwwwspoaflchYjjjegpkwxiohplsfelmjgtlae
+[Debug] Result=13
+LAPSE juzxyaTulzqhpykfyscgnwulyhgfwxgdPgkxStsopqgml
+[Debug] Result=1020
+SRestaurant: ID 21  Customer: 1020
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 20 COUNT 1 TIME 22]	[ID 7 COUNT 4 TIME 25]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 2 TIME 15]	
+---------------------------------------------------
+LAPSE oczznqxfccpayvogsbqiuekgyjogyUygw
+[Debug] Result=121
+LAPSE kwvcne
+[Debug] Result=754
+SRestaurant: ID 5  Customer: 754
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 9 COUNT 1 TIME 19]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 20 COUNT 1 TIME 22]	[ID 7 COUNT 4 TIME 25]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 2 TIME 15]	[ID 5 COUNT 1 TIME 28]	
+---------------------------------------------------
+LAPSE dbelfnsoyrnubfvddoXksgaxdgpsnnarRqtunxocjyqrxazxjawvveudxixxjmvxank
+[Debug] Result=208
+SRestaurant: ID 9  Customer: 208
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 4 TIME 25]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 2 TIME 15]	[ID 5 COUNT 1 TIME 28]	
+---------------------------------------------------
+LAPSE juyjnnmampkhbtiblwjsjqkggrrspjhieocgcnodhbsfgsvondndrbhzcukrsbfbkftliFfluvvxdltnq
+[Debug] Result=129
+LAPSE dvqbkgeyohFzfajxqebGygubukgvoodpx
+[Debug] Result=634
+SRestaurant: ID 10  Customer: 634
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 4 TIME 25]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 3 TIME 30]	[ID 5 COUNT 1 TIME 28]	
+---------------------------------------------------
+LAPSE fpkbrs
+[Debug] Result=523
+LAPSE xhnhcfdafxxbiz
+[Debug] Result=56
+SRestaurant: ID 7  Customer: 56
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 3 TIME 30]	[ID 5 COUNT 1 TIME 28]	
+---------------------------------------------------
+HAND
+a
+8
+b
+2
+c
+4
+d
+2
+e
+10
+j
+6
+o
+3
+h
+LAPSE Toyhwfvslfilxiavacafpjyfdjgwlpyiawft
+[Debug] Result=724
+SRestaurant: ID 25  Customer: 724
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 24 COUNT 1 TIME 14]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 25 COUNT 1 TIME 32]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 3 TIME 30]	[ID 5 COUNT 1 TIME 28]	[ID 23 COUNT 2 TIME 9]	
+---------------------------------------------------
+LIMITLESS 11
+935
+LAPSE dmwrKXmupmaGwgcjmlkvdwTzsivhmjqcqrmliytkuxHkispvJbuizfmvyxgaxtfkinajmitlqqgdbcnrnnpudebjmxlnka
+[Debug] Result=348
+SRestaurant: ID 24  Customer: 348
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 25 COUNT 1 TIME 32]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 3 TIME 30]	[ID 5 COUNT 1 TIME 28]	[ID 24 COUNT 2 TIME 33]	
+---------------------------------------------------
+LAPSE kbyntjmhahblobuuwzmdknXssnhwimacuxgnsjkvakugocb
+[Debug] Result=730
+SRestaurant: ID 6  Customer: 730
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 4 COUNT 1 TIME 10]	[ID 17 COUNT 1 TIME 17]	[ID 16 COUNT 1 TIME 24]	[ID 25 COUNT 1 TIME 32]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 8 COUNT 1 TIME 26]	[ID 21 COUNT 1 TIME 27]	[ID 6 COUNT 1 TIME 34]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 15 COUNT 2 TIME 6]	[ID 10 COUNT 3 TIME 30]	[ID 5 COUNT 1 TIME 28]	[ID 24 COUNT 2 TIME 33]	[ID 23 COUNT 2 TIME 9]	
+---------------------------------------------------
+LAPSE lwffrwwiegumotk
+[Debug] Result=231
+LAPSE hyhLkoglxfysqhtfaerkt
+[Debug] Result=985
+LAPSE wnlptyFniatwksalpcyrnchlbcommorc
+[Debug] Result=478
+SRestaurant: ID 4  Customer: 478
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 16 COUNT 1 TIME 24]	[ID 17 COUNT 1 TIME 17]	[ID 8 COUNT 1 TIME 26]	[ID 25 COUNT 1 TIME 32]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 15 COUNT 2 TIME 6]	[ID 21 COUNT 1 TIME 27]	[ID 6 COUNT 1 TIME 34]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 2 TIME 35]	[ID 10 COUNT 3 TIME 30]	[ID 5 COUNT 1 TIME 28]	[ID 24 COUNT 2 TIME 33]	[ID 23 COUNT 2 TIME 9]	
+---------------------------------------------------
+LAPSE nqdtfntkipmazdwhzkurtSztqlcbJkggxwqrojmiIiiis
+[Debug] Result=182
+SRestaurant: ID 8  Customer: 182
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 16 COUNT 1 TIME 24]	[ID 17 COUNT 1 TIME 17]	[ID 21 COUNT 1 TIME 27]	[ID 25 COUNT 1 TIME 32]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 15 COUNT 2 TIME 6]	[ID 5 COUNT 1 TIME 28]	[ID 6 COUNT 1 TIME 34]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 2 TIME 35]	[ID 10 COUNT 3 TIME 30]	[ID 8 COUNT 2 TIME 36]	[ID 24 COUNT 2 TIME 33]	[ID 23 COUNT 2 TIME 9]	
+---------------------------------------------------
+LAPSE pAkfvtruzmwrvidfjpdilhmkKxd
+[Debug] Result=28
+SRestaurant: ID 4  Customer: 28
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 16 COUNT 1 TIME 24]	[ID 17 COUNT 1 TIME 17]	[ID 21 COUNT 1 TIME 27]	[ID 25 COUNT 1 TIME 32]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 15 COUNT 2 TIME 6]	[ID 5 COUNT 1 TIME 28]	[ID 6 COUNT 1 TIME 34]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 2 TIME 21]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 8 COUNT 2 TIME 36]	[ID 24 COUNT 2 TIME 33]	[ID 23 COUNT 2 TIME 9]	
+---------------------------------------------------
+LAPSE vpnliquomkkyupegaicxtanDsmhktljcubdbmjmyeiprndeohjlyibquocucmlvrtsxrigdyqxefajralnraxzjxrqedjzxqdu
+[Debug] Result=559
+LAPSE fmqqbhafoIbrqusiagyqdqmoixnxticqhwya
+[Debug] Result=507
+LAPSE vrdstqwtxwhpwenvzzdFtr
+[Debug] Result=218
+SRestaurant: ID 19  Customer: 218
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 16 COUNT 1 TIME 24]	[ID 17 COUNT 1 TIME 17]	[ID 21 COUNT 1 TIME 27]	[ID 25 COUNT 1 TIME 32]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 15 COUNT 2 TIME 6]	[ID 5 COUNT 1 TIME 28]	[ID 6 COUNT 1 TIME 34]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 3 TIME 38]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 8 COUNT 2 TIME 36]	[ID 24 COUNT 2 TIME 33]	[ID 23 COUNT 2 TIME 9]	
+---------------------------------------------------
+LIMITLESS 26
+LAPSE wybsyuwmrmtfpkocgewdl
+[Debug] Result=799
+LAPSE ocnlufgddwvsQyutxhdhoohrbwjosqjnhesddFynOenrnlfahq
+[Debug] Result=874
+SRestaurant: ID 25  Customer: 874
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 16 COUNT 1 TIME 24]	[ID 17 COUNT 1 TIME 17]	[ID 21 COUNT 1 TIME 27]	[ID 6 COUNT 1 TIME 34]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 15 COUNT 2 TIME 6]	[ID 5 COUNT 1 TIME 28]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 3 TIME 38]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 8 COUNT 2 TIME 36]	[ID 24 COUNT 2 TIME 33]	[ID 25 COUNT 2 TIME 39]	
+---------------------------------------------------
+LAPSE hshhaqqgecbfrsjhhjaezwkmfkdvfpfaienguirzuxkzueilvjhhdygqdtggolqmgkeewv
+[Debug] Result=990
+SRestaurant: ID 16  Customer: 990
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 21 COUNT 1 TIME 27]	[ID 17 COUNT 1 TIME 17]	[ID 5 COUNT 1 TIME 28]	[ID 6 COUNT 1 TIME 34]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 15 COUNT 2 TIME 6]	[ID 8 COUNT 2 TIME 36]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 3 TIME 38]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 16 COUNT 2 TIME 40]	[ID 24 COUNT 2 TIME 33]	[ID 25 COUNT 2 TIME 39]	
+---------------------------------------------------
+LAPSE Slbkvvczuclfgpnviloioqsiqdszwek
+[Debug] Result=123
+LAPSE itaokdgjgssuvmmnnbqkumqoQpahjolhmtfcbqbbmpaJooiz
+[Debug] Result=125
+LAPSE adkdezzxixmbnwzclclaocqdmblxibnwZosxjoejliwffjepswsow
+[Debug] Result=845
+LAPSE skwqjwtzuYuasck
+[Debug] Result=281
+LAPSE jjlumFqqnagobhvzeozstindMhodmaayndnogtqFcscrbdckfggyuyegufdbtexqakbftwuuxncghdkjvkrdorlwfite
+[Debug] Result=54
+SRestaurant: ID 5  Customer: 54
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 21 COUNT 1 TIME 27]	[ID 17 COUNT 1 TIME 17]	[ID 15 COUNT 2 TIME 6]	[ID 6 COUNT 1 TIME 34]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 5 COUNT 2 TIME 41]	[ID 8 COUNT 2 TIME 36]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 2 TIME 7]	[ID 19 COUNT 3 TIME 38]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 16 COUNT 2 TIME 40]	[ID 24 COUNT 2 TIME 33]	[ID 25 COUNT 2 TIME 39]	
+---------------------------------------------------
+LAPSE putbxjyylroxrjgwqfeilzvdadlztzllxlkyrfpysyrsatvppSqjwskhvxbgdwwdepybg
+[Debug] Result=767
+LAPSE qqsdooepqybOlpqofkgnmsjfhrepgzfuwQngQimvgqkTubiaayiuhbgamvsdvvXuhekvpxsnslysfyrcuHgbpkefuwrv
+[Debug] Result=607
+LAPSE uwpshmywamjjxakqepfHnmesmzajSjkuzm
+[Debug] Result=869
+LAPSE zgepekeoenuffaffeldxifdnlwdztnduqkwbkuczrsovxlcFqijyh
+[Debug] Result=599
+LAPSE fqhpvllcideaBjwixymmLrpwdejuzmnfinundbybk
+[Debug] Result=446
+SRestaurant: ID 22  Customer: 446
+---------------------------------------------------
+[ID 1 COUNT 1 TIME 4]	[ID 21 COUNT 1 TIME 27]	[ID 17 COUNT 1 TIME 17]	[ID 15 COUNT 2 TIME 6]	[ID 6 COUNT 1 TIME 34]	[ID 12 COUNT 1 TIME 18]	[ID 20 COUNT 1 TIME 22]	[ID 5 COUNT 2 TIME 41]	[ID 8 COUNT 2 TIME 36]	[ID 23 COUNT 2 TIME 9]	[ID 11 COUNT 2 TIME 23]	[ID 22 COUNT 3 TIME 42]	[ID 19 COUNT 3 TIME 38]	[ID 2 COUNT 2 TIME 16]	[ID 9 COUNT 2 TIME 29]	[ID 7 COUNT 5 TIME 31]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 16 COUNT 2 TIME 40]	[ID 24 COUNT 2 TIME 33]	[ID 25 COUNT 2 TIME 39]	
+---------------------------------------------------
+LAPSE pueytllwgoqsqeoywubqacgvpxosebimhuzwgchyYxtxcvtjshsjXevvcorhbknatEkbpvggteaxnmvxxtrplGlzllesrzhne
+[Debug] Result=617
+KEITEIKEN 9
+700-1
+66-17
+336-12
+694-20
+1020-21
+730-6
+464-15
+914-15
+672-23
+322-23
+626-2
+726-2
+LAPSE mjwfmxrfszfyqlqasmeeppomygtkgiormfkla
+[Debug] Result=822
+SRestaurant: ID 23  Customer: 822
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 8 COUNT 2 TIME 36]	[ID 11 COUNT 2 TIME 23]	[ID 5 COUNT 2 TIME 41]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 19 COUNT 3 TIME 38]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	
+---------------------------------------------------
+LAPSE bxvhnutgbyiflfiwoxvkhpbvyfgsvmrypgxvrvvlsfvXdjyeFglthfgNdwalqpyhczvohyjzsxgxqhplRenmlegkwksg
+[Debug] Result=686
+SRestaurant: ID 12  Customer: 686
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 8 COUNT 2 TIME 36]	[ID 12 COUNT 1 TIME 53]	[ID 5 COUNT 2 TIME 41]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 11 COUNT 2 TIME 23]	[ID 19 COUNT 3 TIME 38]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	
+---------------------------------------------------
+LAPSE hgJuojyjvqiaenqdgksxniaigwofqhxogrdquqtaa
+[Debug] Result=730
+SRestaurant: ID 6  Customer: 730
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 8 COUNT 2 TIME 36]	[ID 12 COUNT 1 TIME 53]	[ID 5 COUNT 2 TIME 41]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 19 COUNT 3 TIME 38]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 3 TIME 30]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 2 TIME 23]	
+---------------------------------------------------
+LAPSE mlvwklxthniltzfqmvwxfiayjEjToohwimcgoptkqdrm
+[Debug] Result=709
+LAPSE tmuhqwhz
+[Debug] Result=284
+SRestaurant: ID 10  Customer: 284
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 8 COUNT 2 TIME 36]	[ID 12 COUNT 1 TIME 53]	[ID 5 COUNT 2 TIME 41]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 19 COUNT 3 TIME 38]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 2 TIME 23]	
+---------------------------------------------------
+LAPSE qmuxqjtokZgylesf
+[Debug] Result=789
+LAPSE aQjfyaaostxowlcljcuhspfjVh
+[Debug] Result=225
+LAPSE xxt
+LAPSE gidphXqauguivXquyskbzgoFzqflvpqwkmiaucxnpukqvoojtvrbzeqqbeshuvuqyhthoxzgzqfhgvysyrB
+[Debug] Result=523
+LAPSE ogvyrpmgKzwtotgehvixchginohtzbwUxrskcgzw
+[Debug] Result=923
+LAPSE shbegsenxwiJptmmmpqlodtgjgrxmeyjojkrwybdbhkqkuaxXroeghhgmhu
+[Debug] Result=450
+SRestaurant: ID 1  Customer: 450
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 12 COUNT 1 TIME 53]	[ID 8 COUNT 2 TIME 36]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 5 COUNT 2 TIME 41]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 2 TIME 23]	[ID 19 COUNT 3 TIME 38]	
+---------------------------------------------------
+LAPSE kycLsfgjmwzicgfihwaphDyjkb
+[Debug] Result=1014
+SRestaurant: ID 15  Customer: 1014
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 12 COUNT 1 TIME 53]	[ID 15 COUNT 1 TIME 57]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 8 COUNT 2 TIME 36]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 2 TIME 23]	[ID 19 COUNT 3 TIME 38]	[ID 5 COUNT 2 TIME 41]	
+---------------------------------------------------
+LAPSE ldynuklrcpzcrhjtzyuqMwcpizoyctpydpjfEylgnmpbmufhzvlijwgiorggyhyeusxnsocmpdglevkWrgdabyjiebOndxjjc
+[Debug] Result=460
+SRestaurant: ID 11  Customer: 460
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 12 COUNT 1 TIME 53]	[ID 15 COUNT 1 TIME 57]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 8 COUNT 2 TIME 36]	[ID 4 COUNT 3 TIME 37]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 3 TIME 38]	[ID 5 COUNT 2 TIME 41]	
+---------------------------------------------------
+LAPSE ocrzcingejvgufpyabsfcjayecFqzuvtuXtaxgciiuhasezzeqtyzyzioyivjhoXzkekekfpwt
+[Debug] Result=478
+SRestaurant: ID 4  Customer: 478
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 12 COUNT 1 TIME 53]	[ID 15 COUNT 1 TIME 57]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 8 COUNT 2 TIME 36]	[ID 4 COUNT 4 TIME 59]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 3 TIME 38]	[ID 5 COUNT 2 TIME 41]	
+---------------------------------------------------
+LAPSE jwgbrqiqxcQkebqhgMzhwlgzwcIocgbhbqbzecsMwMbiivzuhlojomhyvXniewgnzz
+[Debug] Result=725
+LAPSE nzagkchlqhofgomvouQxclmehYksgpdcni
+[Debug] Result=520
+SRestaurant: ID 21  Customer: 520
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 12 COUNT 1 TIME 53]	[ID 15 COUNT 1 TIME 57]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 8 COUNT 2 TIME 36]	[ID 21 COUNT 1 TIME 60]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 3 TIME 38]	[ID 5 COUNT 2 TIME 41]	[ID 4 COUNT 4 TIME 59]	
+---------------------------------------------------
+LAPSE ngjotirzq
+[Debug] Result=189
+LAPSE imxhazewnjvehuynpdaymQptrhimcjpsjjnximrjguhvubkuorzxebjhfcjtjlkekemxnepbpxcm
+[Debug] Result=309
+LAPSE cxqydblpotkxdaqwdhqqrvjhseBllarrqdwzvxxumaxCvJdsqh
+[Debug] Result=915
+LAPSE buxxjdzffddilvmovrrzjdmixhwqosyfkkowuibvfrqpaqpiXmwlwucoytfxrdjydtkJuowrpvhCadedsjeeqySede
+[Debug] Result=514
+SRestaurant: ID 15  Customer: 514
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 12 COUNT 1 TIME 53]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 8 COUNT 2 TIME 36]	[ID 15 COUNT 2 TIME 61]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 3 TIME 38]	[ID 5 COUNT 2 TIME 41]	[ID 4 COUNT 4 TIME 59]	
+---------------------------------------------------
+LAPSE d
+LAPSE hsuqqxuddexoangdcefjfrknczq
+[Debug] Result=299
+LAPSE ltnasuioaavovlxffvcispkewwjvjksjcslayrovwmrimktbkqrgjkfrfhaphlxbltblwlscxjrr
+[Debug] Result=614
+SRestaurant: ID 15  Customer: 614
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 12 COUNT 1 TIME 53]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 6 COUNT 1 TIME 54]	[ID 8 COUNT 2 TIME 36]	[ID 15 COUNT 3 TIME 62]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 24 COUNT 2 TIME 33]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 3 TIME 38]	[ID 5 COUNT 2 TIME 41]	[ID 4 COUNT 4 TIME 59]	
+---------------------------------------------------
+LAPSE tepeurnattcbteazjgsqcolbdKoovyrqrwjsqdgdegzbtoywclkbwfwtxilgbawunhqyrcaupzdollwmmyuoyolobxhkawzylp
+[Debug] Result=886
+SRestaurant: ID 12  Customer: 886
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 8 COUNT 2 TIME 36]	[ID 15 COUNT 3 TIME 62]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 3 TIME 38]	[ID 5 COUNT 2 TIME 41]	[ID 4 COUNT 4 TIME 59]	
+---------------------------------------------------
+LAPSE kqkdebvjklguzgfFnosqezjkkoyydkzZaiynocwipxgmojruawzNwu
+[Debug] Result=771
+LAPSE evjrfqrqzmzpoKelemvtrzygybyusaixdfiumbtdtcbtesvKinmuRtA
+[Debug] Result=568
+SRestaurant: ID 19  Customer: 568
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 8 COUNT 2 TIME 36]	[ID 15 COUNT 3 TIME 62]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 2 TIME 39]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 4 TIME 64]	[ID 5 COUNT 2 TIME 41]	[ID 4 COUNT 4 TIME 59]	
+---------------------------------------------------
+LAPSE hmrwdwjlhvpchsztfbazjvGkrh
+[Debug] Result=24
+SRestaurant: ID 25  Customer: 24
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 8 COUNT 2 TIME 36]	[ID 15 COUNT 3 TIME 62]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 4 TIME 64]	[ID 5 COUNT 2 TIME 41]	[ID 4 COUNT 4 TIME 59]	
+---------------------------------------------------
+LAPSE ouqgkctvBcz
+[Debug] Result=233
+LAPSE fepceybmbhqbliqhqcejhylzjczyfuhvhbmabzunuiyeehmPutpbceabboxspwqbgysOkpqvkLqtgeloxq
+[Debug] Result=882
+SRestaurant: ID 8  Customer: 882
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 5 COUNT 2 TIME 41]	[ID 15 COUNT 3 TIME 62]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	
+---------------------------------------------------
+LAPSE qggzvob
+[Debug] Result=688
+SRestaurant: ID 14  Customer: 688
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 1 TIME 67]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 3 TIME 58]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 3 TIME 62]	
+---------------------------------------------------
+LAPSE hixcvbfuabxrjjkUdjuoiufjxxnejkywlsskackbaukh
+[Debug] Result=67
+LAPSE ahtFajeCdqhpyjudeatelziijdyrrvwseukuryxFahiwpvvrgxaeSzbuslteiouxjWgfxd
+[Debug] Result=43
+LAPSE gfqpqdbvvjgwcbsrfnjeixzgfwaxyPtcihsajfywrzquitbejsxklaawxuqppjlfocrsl
+[Debug] Result=823
+LAPSE cvwptlredsasubthdgivkxujqmaz
+[Debug] Result=160
+SRestaurant: ID 11  Customer: 160
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 16 COUNT 2 TIME 40]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 1 TIME 67]	[ID 10 COUNT 4 TIME 55]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 3 TIME 62]	
+---------------------------------------------------
+LAPSE nlnaxqlwadhznqwfua
+[Debug] Result=641
+LAPSE dhcuCdmvyjqlzblmgrkmetnsVaalcodizupmyvmn
+[Debug] Result=109
+LAPSE tatuwgapojrcsynrmeztspabkdbqfgbwidjFmokdhpladxbztuzbcgsswcxagfayrrexppqntiDwpoojdqtdahjkibdqdshyo
+[Debug] Result=643
+LAPSE ntkqopzwvvaspyabdavsshPlmtoqxxahklrdytxzgcinqiniqctxenrhnhmznizqqdqjrnkoizchwtm
+[Debug] Result=63
+LAPSE pbpxfvlpcZawDhjqytpnqzhxujbuuivlCngwUuhPoleawnBzzojituomrwqtckklyovitzmlvywwqhi
+[Debug] Result=942
+SRestaurant: ID 18  Customer: 942
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 24 COUNT 2 TIME 33]	[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 1 TIME 67]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 3 TIME 62]	[ID 10 COUNT 4 TIME 55]	
+---------------------------------------------------
+LAPSE bfcuqvnernjzmkvnuirtylxgjbbxifqberqpuZozoldjybvlmihsivjjlhrihdyqkfjpnncbvtXzyqmmwdikyzobwtanmlcx
+[Debug] Result=923
+LAPSE knpeqfnqSxmbg
+[Debug] Result=727
+LAPSE ayqojjwkiryrpqdkvkmgsajddondpceexifjnEeudabXnyzlhkaqcuvppswnwcvknyrl
+[Debug] Result=501
+LAPSE pwsgjvdpdbrapsffypuemgkKjfcvalkrxkiklelnzippnVyejmtckzjudaxjqqhhitmkwEhdrbnb
+[Debug] Result=1007
+LAPSE zvzibeCbownslcgeiboulldswhbnymiqjnmtwmkwaqyrfipiwrcdirnyrmjdclgvcycdcvdazlbeptbadtcgzlduIzyLXbmqf
+[Debug] Result=347
+LAPSE pykuzlahfvkhsaJhvlufjqonxdinZuwjenekcqnwVqtecangqmwh
+[Debug] Result=997
+LAPSE zvfiof
+[Debug] Result=315
+LAPSE zoeokmfmdaezyslzclbrctovgnyigxpqtqonhanzpoaoivCsuv
+[Debug] Result=398
+SRestaurant: ID 24  Customer: 398
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 1 TIME 67]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 3 TIME 70]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 3 TIME 62]	[ID 10 COUNT 4 TIME 55]	
+---------------------------------------------------
+LAPSE mdkvrWwCmoopopditntylmsfwpgjoefxnueRlmmvmvgrdclb
+[Debug] Result=161
+LAPSE tbjxamfrulonsgykghgktcgxqcvbxizaczyedekmjoyeferldrbmsnnhaylQmCkfmvewvyxQktmvlexdiybytkefulymajqvnjc
+[Debug] Result=814
+SRestaurant: ID 15  Customer: 814
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 1 TIME 67]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 3 TIME 70]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	
+---------------------------------------------------
+LAPSE fkjuxhccpjmsbyqcjlevxntwVvwlugybLkogvjI
+[Debug] Result=638
+SRestaurant: ID 14  Customer: 638
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 1 COUNT 1 TIME 56]	[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 3 TIME 70]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	
+---------------------------------------------------
+LAPSE kpybjeroveddsrqkeMlixrcxidxpimbuoldcnudgAkzssamnbswjmksetfq
+[Debug] Result=750
+SRestaurant: ID 1  Customer: 750
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 21 COUNT 1 TIME 60]	[ID 6 COUNT 1 TIME 54]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 2 TIME 73]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 3 TIME 70]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	
+---------------------------------------------------
+LAPSE Ogrfyzqvzbhhaohpfbrpvwqkqmpiqxnnlxqubyioaiauyjfcvzaphunbptyptperubgwzqlpujyqgcb
+[Debug] Result=463
+HAND
+n
+6
+u
+13
+z
+28
+x
+32
+v
+4
+f
+2
+P
+9
+q
+7
+y
+8
+e
+16
+d
+17
+l
+19
+h
+12
+i
+6
+j
+LAPSE tzqyrcaxspnunsntyvdiwrajdmcR
+[Debug] Result=548
+SRestaurant: ID 24  Customer: 548
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 21 COUNT 1 TIME 60]	[ID 6 COUNT 1 TIME 54]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 2 TIME 73]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	
+---------------------------------------------------
+LAPSE lfyAdjuqtggxvgcdgqvvlgkkcrjtmuhGydrpxwoioukjvuudxelqesgDijuhucvng
+[Debug] Result=255
+LAPSE sa
+LAPSE pyjFtpjixgdejaqeeusxdfqcktgllgunwinqspuviinyybhtmhlfzpJpylm
+[Debug] Result=912
+SRestaurant: ID 13  Customer: 912
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 21 COUNT 1 TIME 60]	[ID 6 COUNT 1 TIME 54]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 2 TIME 73]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 4 TIME 68]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	[ID 16 COUNT 2 TIME 40]	
+---------------------------------------------------
+LAPSE ihdoxkKwdabdwnenAgveuzjupxqvriwcIkveppsojsycuyfmdtlrtguxatpgihkgajrkomejpxebrtahyqdflbfimAgabzmay
+[Debug] Result=410
+SRestaurant: ID 11  Customer: 410
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 21 COUNT 1 TIME 60]	[ID 6 COUNT 1 TIME 54]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 2 TIME 73]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 3 TIME 66]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	[ID 16 COUNT 2 TIME 40]	
+---------------------------------------------------
+LAPSE grtcqdeskllyimiamq
+[Debug] Result=450
+SRestaurant: ID 1  Customer: 450
+---------------------------------------------------
+[ID 23 COUNT 1 TIME 52]	[ID 21 COUNT 1 TIME 60]	[ID 6 COUNT 1 TIME 54]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 9 COUNT 2 TIME 29]	[ID 12 COUNT 2 TIME 63]	[ID 8 COUNT 3 TIME 66]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 1 COUNT 3 TIME 77]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	[ID 16 COUNT 2 TIME 40]	
+---------------------------------------------------
+LAPSE jyiOzp
+[Debug] Result=922
+SRestaurant: ID 23  Customer: 922
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 8 COUNT 3 TIME 66]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 7 COUNT 5 TIME 31]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 1 COUNT 3 TIME 77]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	[ID 16 COUNT 2 TIME 40]	
+---------------------------------------------------
+LAPSE nznkelnfsazjcbyidevamuitqmqacvhdxjcvpxatxbrpgZeuywlxtexjosymizudebojkjlqpJbkmlogzyjckay
+[Debug] Result=33
+LAPSE mbagpkfwwtptbr
+[Debug] Result=547
+LAPSE zdwxdqupjfqmmbxktdjhslafdkfrjiuliowzkfoaqwtgdjnqxtiwvgazsxahpcpzrpklb
+[Debug] Result=602
+SRestaurant: ID 3  Customer: 602
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 8 COUNT 3 TIME 66]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 1 COUNT 3 TIME 77]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE qdbgzpIkqaafgtpwerwapqnraqwxrpgkbOotqctumgpWllbthifoprVtvegzgpaFcovyxopxttekycab
+[Debug] Result=787
+LAPSE fjetexpnwHnnxxqcdozhxjruofZowhjazjvqgiguvfwp
+[Debug] Result=632
+SRestaurant: ID 8  Customer: 632
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 4 TIME 80]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 4 TIME 55]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE zoaxcnhndymhahCadrwsafjfbamwffqldheEoybhsfxmyHyfn
+[Debug] Result=59
+LAPSE ziiuywvmuxfNwTareepkpuGnkiqfotnpgepkdprqlsuzkxkikndtalykimjvexeproaatotyrsVdmvdj
+[Debug] Result=271
+LAPSE ezelydLglxbknudevcwtysbrxhpnhyqvxdrgipbddrkokdhgrxqsnIhbydroxfcOsgaqkdnf
+[Debug] Result=434
+SRestaurant: ID 10  Customer: 434
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 4 TIME 80]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE jukwwcvjJyuxanlfevgtcvrohynemqcdcohmadoztcvzijXgygwakftkkyizayzsohumktixSvnlfZtjxllvuVptaxl
+[Debug] Result=1019
+LAPSE rucbikczrekcwlocaxzddOqbknwujmincxhe
+[Debug] Result=232
+SRestaurant: ID 8  Customer: 232
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 4 TIME 59]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE hbejahnomWrvhtyxbvminthgspqsKfxctcfjlhchkvfvmtlvhmebqttnbilorcngqnvxguqzxngeocsvozozoomj
+[Debug] Result=985
+LAPSE l
+LAPSE Ctyuglefllyqoiirbxgflyoocpa
+[Debug] Result=1013
+LAPSE tx
+LAPSE fspbtsidmuxcgzvrhVnnqyxwptfjvolgkfvwfysllvtabssdkXvhhtnnr
+[Debug] Result=978
+SRestaurant: ID 4  Customer: 978
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 1 TIME 75]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 2 TIME 40]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE ubasxnuijpqhxfydasalrgbaaikxwcpxenjedljhmgottkdlnozbb
+[Debug] Result=3
+LAPSE xibqvUjhykfjqbxglbcvfatpaqapNccKkjrpcgcjwotpvEstiynjgigdqwchyjnDvbdlmxorgdhzxdzbua
+[Debug] Result=1012
+SRestaurant: ID 13  Customer: 1012
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 2 TIME 40]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 3 TIME 65]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 13 COUNT 2 TIME 84]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE duqcjpmrlcfliyxthxocjimzjoytgyxhhkbbsofskmmvpnuzujctgocgttstxqpuwualrfdatvscytubyrjczrmuqlmn
+[Debug] Result=524
+SRestaurant: ID 25  Customer: 524
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 2 TIME 40]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 4 TIME 85]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 13 COUNT 2 TIME 84]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE uaubakpeshasnrwkfiextdgycjvzeyvnCcubJebcuneaapcweohceqmmtzfioskazwzqppuphqznrdpnjwcvspedf
+[Debug] Result=426
+SRestaurant: ID 2  Customer: 426
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 2 TIME 40]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 4 TIME 85]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 13 COUNT 2 TIME 84]	[ID 7 COUNT 5 TIME 31]	[ID 2 COUNT 1 TIME 86]	
+---------------------------------------------------
+LAPSE kvvBoQjcehurfkokzdxtplnmtrwgnxcybjxmalxktateghddgumAmtytviykbaBrukvltziwhouddjdta
+[Debug] Result=635
+LAPSE ydgtgvuGjQMvlehOsfquugcuQ
+[Debug] Result=840
+SRestaurant: ID 16  Customer: 840
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 2 TIME 84]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 4 TIME 85]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 3 TIME 87]	[ID 7 COUNT 5 TIME 31]	[ID 2 COUNT 1 TIME 86]	
+---------------------------------------------------
+LAPSE dkzrjgblbnzRqjCgvunriywznfsptducrkqzmsguumwxmvckvlvieedrptd
+[Debug] Result=755
+LAPSE yrvcfmppjrjamvbbnxfh
+[Debug] Result=924
+SRestaurant: ID 25  Customer: 924
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 18 COUNT 1 TIME 69]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 2 TIME 84]	[ID 3 COUNT 1 TIME 79]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 3 TIME 87]	[ID 7 COUNT 5 TIME 31]	[ID 2 COUNT 1 TIME 86]	
+---------------------------------------------------
+LAPSE nceiuzljoiucr
+[Debug] Result=539
+LAPSE ebhetjjtwjdoxloyacqtonekxwwgdkkqmHkyi
+[Debug] Result=125
+LAPSE fjszyleiuhcngmmaqadkpdqivsqpoqoeyanrvlzvpqkcxm
+[Debug] Result=113
+LAPSE bbqnpfblexpgrev
+[Debug] Result=142
+SRestaurant: ID 18  Customer: 142
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 3 COUNT 1 TIME 79]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 2 TIME 84]	[ID 2 COUNT 1 TIME 86]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 3 TIME 87]	[ID 7 COUNT 5 TIME 31]	[ID 18 COUNT 2 TIME 89]	
+---------------------------------------------------
+LAPSE ci
+LAPSE zhjjesltcanmryelgjhzvyvslystncDxpjwajrlchtthwomvtpnvccojcerlioagqg
+[Debug] Result=369
+LAPSE smtvbsen
+[Debug] Result=749
+LAPSE mrrdg
+[Debug] Result=573
+LAPSE glxcxruhknfoysocamzopvkuohtSmszgzyxxwfcpqxmzbwbmnlapus
+[Debug] Result=942
+SRestaurant: ID 18  Customer: 942
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 3 COUNT 1 TIME 79]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 2 TIME 84]	[ID 2 COUNT 1 TIME 86]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 5 TIME 82]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 3 TIME 87]	[ID 7 COUNT 5 TIME 31]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE necfuvipxkldkfmgpwhnwudtzuobpfuGujxc
+[Debug] Result=373
+LAPSE Bafmeekgrstyowtdpchydybjwyyxofiiqpte
+[Debug] Result=932
+SRestaurant: ID 8  Customer: 932
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 3 COUNT 1 TIME 79]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 13 COUNT 2 TIME 84]	[ID 2 COUNT 1 TIME 86]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 16 COUNT 3 TIME 87]	[ID 7 COUNT 5 TIME 31]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE xwmvppdbxpvtncjahaglzPvxtuisdhipmmlofaqbvzztjpszhnju
+[Debug] Result=719
+LAPSE Vhietvhhmnikbxguffohx
+[Debug] Result=361
+LAPSE tkdpxikNoeiu
+[Debug] Result=539
+LAPSE ixiyrylleljocCrtjsyywrdmpffxxksdqdrliemogxmebbhkfnwrkbawcdaswzjzHnmwdiqLc
+[Debug] Result=112
+SRestaurant: ID 13  Customer: 112
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 3 COUNT 1 TIME 79]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 3 TIME 87]	[ID 2 COUNT 1 TIME 86]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 5 TIME 81]	[ID 13 COUNT 3 TIME 92]	[ID 7 COUNT 5 TIME 31]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE qabcsbgfkipaQbgwUccdrvcmhhSfh
+[Debug] Result=584
+SRestaurant: ID 10  Customer: 584
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 3 COUNT 1 TIME 79]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 1 COUNT 3 TIME 77]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 3 TIME 87]	[ID 2 COUNT 1 TIME 86]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 4 TIME 64]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 6 TIME 93]	[ID 13 COUNT 3 TIME 92]	[ID 7 COUNT 5 TIME 31]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE dZjBkeDhxktgbccjdqCeqiypargobqdaxwxpegqlqbdwnbuxmdpktrgvglyjbiafdligs
+[Debug] Result=695
+CLEAVE 11
+6-730
+21-520
+5-54
+5-754
+1-450
+1-750
+1-450
+19-568
+19-218
+19-218
+19-68
+8-932
+8-232
+8-632
+8-882
+8-182
+8-432
+14-638
+14-688
+4-978
+4-478
+4-28
+4-478
+4-678
+15-814
+15-614
+15-514
+15-1014
+3-602
+16-840
+16-990
+16-940
+10-584
+10-434
+10-284
+10-634
+10-184
+10-984
+13-112
+13-1012
+13-912
+2-426
+7-56
+7-6
+7-506
+7-656
+7-406
+18-942
+18-142
+18-942
+9-208
+9-308
+23-922
+23-822
+22-446
+22-946
+22-46
+25-924
+25-524
+25-24
+25-874
+25-724
+12-886
+12-686
+24-548
+24-398
+24-348
+24-848
+11-410
+11-160
+11-460
+11-510
+11-410
+LAPSE kysfryZimaxtmlwdwlonyczvpgowtzylieismwaxbyeauzpblfqsnrrhblyrkroocwisngytjxlf
+[Debug] Result=903
+LAPSE gfnilflhcssdvnminfbjmgcestfhtqqwyajftuavprkqcriiow
+[Debug] Result=41
+LAPSE ofcpzxgcsbuhghzycmgdzsmfuiqkgtmjff
+[Debug] Result=7
+LAPSE vyt
+[Debug] Result=11
+LAPSE slkcekkilujdyjfzreggksngfmuaqjpjmYztifwnbcrlmkoobzaodaToqTbjXcginwwvrdcqieyllysfujheeagzgykpk
+[Debug] Result=585
+LAPSE aebmxkPyhiqctBaefnjaocnmaxvbbpledcxgze
+[Debug] Result=300
+SRestaurant: ID 1  Customer: 300
+---------------------------------------------------
+[ID 6 COUNT 1 TIME 54]	[ID 21 COUNT 1 TIME 60]	[ID 9 COUNT 2 TIME 29]	[ID 5 COUNT 2 TIME 41]	[ID 3 COUNT 1 TIME 79]	[ID 23 COUNT 2 TIME 78]	[ID 12 COUNT 2 TIME 63]	[ID 19 COUNT 4 TIME 64]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 3 TIME 87]	[ID 2 COUNT 1 TIME 86]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 24 COUNT 4 TIME 74]	[ID 11 COUNT 5 TIME 76]	[ID 1 COUNT 4 TIME 94]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 5 TIME 83]	[ID 15 COUNT 4 TIME 71]	[ID 10 COUNT 6 TIME 93]	[ID 13 COUNT 3 TIME 92]	[ID 7 COUNT 5 TIME 31]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+KEITEIKEN 4
+730-6
+520-21
+602-3
+426-2
+LAPSE wefgzxktssnXmhaznOzxzycuswaieetvIazovdJscrt
+[Debug] Result=699
+LAPSE bzbvmfwndtjkzhgSygzorsiqWbiwngspnvwbwny
+[Debug] Result=958
+SRestaurant: ID 9  Customer: 958
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 16 COUNT 3 TIME 87]	[ID 23 COUNT 2 TIME 78]	[ID 24 COUNT 4 TIME 74]	[ID 19 COUNT 4 TIME 64]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 6 TIME 93]	[ID 11 COUNT 5 TIME 76]	[ID 1 COUNT 4 TIME 94]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 5 TIME 83]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LIMITLESS 23
+347
+447
+497
+547
+547
+547
+797
+997
+LAPSE opvuwsfzufpwdsahmwrxnzayyzyrmuaxkxjhrvbsbfuwmesaye
+[Debug] Result=418
+SRestaurant: ID 19  Customer: 418
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 16 COUNT 3 TIME 87]	[ID 23 COUNT 2 TIME 78]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 6 TIME 93]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 5 TIME 83]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE wyqawqtfkqgwpkzacrrozyplmaxypypasuEklpscxbleixpkmvpjDyjdtzzikavzpnxyiwsq
+[Debug] Result=835
+LIMITLESS 1
+125
+125
+225
+475
+725
+925
+LAPSE cKxdlafhqSxjqcxucxjmqgcyqgwlppennakanpzqlsligenskxultyvovadjghzbfuemrrijpqqqciwaciesmctjjcuzwXKyzjiv
+[Debug] Result=890
+SRestaurant: ID 16  Customer: 890
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 18 COUNT 3 TIME 90]	[ID 23 COUNT 2 TIME 78]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 16 COUNT 4 TIME 101]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 6 TIME 93]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 5 TIME 83]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE dmuwtoydssthdxtsbfwlifXirigbwxsiseqhg
+[Debug] Result=778
+SRestaurant: ID 4  Customer: 778
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 18 COUNT 3 TIME 90]	[ID 23 COUNT 2 TIME 78]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 16 COUNT 4 TIME 101]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 6 TIME 93]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 6 TIME 91]	[ID 4 COUNT 6 TIME 102]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE uxdwsmjhmgzmvlpzznIcpiudooptstvzmyvdkcstofqcngztzukanpfrrmvesrbtodykrknuvikloeapbco
+[Debug] Result=813
+LAPSE MecpsacyyrdxxwcrvjxeiycHg
+[Debug] Result=611
+LAPSE eztyxnRtbhxqxua
+[Debug] Result=132
+SRestaurant: ID 8  Customer: 132
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 18 COUNT 3 TIME 90]	[ID 23 COUNT 2 TIME 78]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 16 COUNT 4 TIME 101]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 6 TIME 93]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 6 TIME 102]	[ID 7 COUNT 5 TIME 31]	
+---------------------------------------------------
+LAPSE zkmpdjkijpsufhfcUfdzefbxvzjpgafir
+[Debug] Result=987
+LAPSE fwnsvrlueuevsurxDeeekbtvenbchlxgcnskpoqxzkflwZVlehfwypcnshtidiuvcwzgsltQxwefcuomttwbrgewryjM
+[Debug] Result=406
+SRestaurant: ID 7  Customer: 406
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 18 COUNT 3 TIME 90]	[ID 23 COUNT 2 TIME 78]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 16 COUNT 4 TIME 101]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 6 TIME 93]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 6 TIME 102]	[ID 7 COUNT 6 TIME 104]	
+---------------------------------------------------
+LAPSE rlwrlzcytpzqfyuiMomvt
+[Debug] Result=689
+LAPSE lgmurozsrcvzedtzpyujtjdltizmqhgrofimosyxaicoivsgqjquwrhorrlckkbwuuq
+[Debug] Result=722
+SRestaurant: ID 23  Customer: 722
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 18 COUNT 3 TIME 90]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 6 TIME 93]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 6 TIME 102]	[ID 7 COUNT 6 TIME 104]	
+---------------------------------------------------
+KOKUSEN
+LAPSE Zvxwyzfuypwuhmbbygbeanjxfnapcsxpyjjjgs
+[Debug] Result=684
+SRestaurant: ID 10  Customer: 684
+---------------------------------------------------
+[ID 5 COUNT 2 TIME 41]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 18 COUNT 3 TIME 90]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 6 TIME 102]	[ID 7 COUNT 6 TIME 104]	
+---------------------------------------------------
+LAPSE zvhsvemultsuttkoimmpmjyswwqaoBimauMzvhxejqhotoujvegzXuzayeLnjfnvuzqbfpnicuuebnsaahphce
+[Debug] Result=463
+LAPSE xhhmuqg
+[Debug] Result=191
+LAPSE izooouzijZaoodmjwjpbYrwhtpkgnoabdhlcmvz
+[Debug] Result=101
+LAPSE uiykgeefbt
+[Debug] Result=416
+SRestaurant: ID 17  Customer: 416
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 5 COUNT 2 TIME 41]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 18 COUNT 3 TIME 90]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 6 TIME 102]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	
+---------------------------------------------------
+LAPSE orzphbylidwdufglrrtbaoiiecniftkxqmdklgucsBvqclwqzkwtpeikboSkcdpvxbsiyqshzbczoyxdlatylzorzj
+[Debug] Result=219
+LAPSE vxlxpcldpnvXmqdsxmcgxkgjqifviTasyvfisnttbUlrsqwhfrvcswwlqkphgeagetsoqygzqric
+[Debug] Result=478
+SRestaurant: ID 4  Customer: 478
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 5 COUNT 2 TIME 41]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 18 COUNT 3 TIME 90]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 7 TIME 108]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	
+---------------------------------------------------
+LAPSE vbpbclgqqjkqmhixlinuiglvqsszfkptxbltlwtaiitsceohnlnrbvkdzfuAxaXddrtTbqiijdghehplNn
+[Debug] Result=20
+SRestaurant: ID 21  Customer: 20
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 5 COUNT 2 TIME 41]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 5 TIME 76]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 7 TIME 108]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE ekbsfcdcmwamuuchrgqhxquzqpvuzwydfzujstozctcyvigyhhazdaqzhmedrarxynsrcgtgvhsMdh
+[Debug] Result=110
+SRestaurant: ID 11  Customer: 110
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 5 COUNT 2 TIME 41]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 7 TIME 108]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE xtnwavoqzcvylvaldytlhhofaaeshccgOtnuynixxf
+[Debug] Result=228
+SRestaurant: ID 4  Customer: 228
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 5 COUNT 2 TIME 41]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 5 TIME 100]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE xZqbmlrhafjfMkshkbloolruqpkricbgokebgqavNhzowknizlpuzeghbhdaysskypvrafow
+[Debug] Result=771
+LAPSE mwlprdhqkpawogmbckhjaandrkitetjrvzJrzjuhzmpyJtrdfjnlawriwl
+[Debug] Result=349
+LAPSE hx
+LAPSE swEviyosfChizwueendbqppkzuebdaviaXduysetdmnluhcavmCxlwgixt
+[Debug] Result=901
+LAPSE zhxlwqqkilrwtzmsjqoaeudrInvztaspoodxdarzopurjtkuwrnywaqtqhkehenqdcjnchqhzexiewewgfeuqrelfqsm
+[Debug] Result=418
+SRestaurant: ID 19  Customer: 418
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 5 COUNT 2 TIME 41]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 16 COUNT 4 TIME 101]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	
+---------------------------------------------------
+LAPSE thnqqNroqleAfnvejiglsjcwvwndkmwavxyjwhrgpymtoHlinfcrycjtszGieiuvriwHrtuzmderpolyqmeeabwb
+[Debug] Result=176
+SRestaurant: ID 2  Customer: 176
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 2 TIME 41]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 7 TIME 106]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	[ID 16 COUNT 4 TIME 101]	
+---------------------------------------------------
+LAPSE jhfztcowrameywanrjwrLgmxgmfwJtytfswpxqwsiizumbonvzrqhawhKbllvzxxnydpfywmpeknyellrqeKbapuig
+[Debug] Result=625
+LAPSE tvfwsitojetlccomuaIdzmrzrjiansvkbbolwufjSjqdedimq
+[Debug] Result=79
+LAPSE efhll
+[Debug] Result=984
+SRestaurant: ID 10  Customer: 984
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 2 TIME 41]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 8 TIME 114]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	[ID 16 COUNT 4 TIME 101]	
+---------------------------------------------------
+LAPSE xoictblrkfzrkeldjnxozannfdgrmmxbyskkonaxhcCwkwpq
+[Debug] Result=234
+SRestaurant: ID 10  Customer: 234
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 4 TIME 74]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 2 TIME 41]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	[ID 16 COUNT 4 TIME 101]	
+---------------------------------------------------
+LAPSE wnadqgoOytuffrflchtagauzjoaudfrgyieejyeomofcifpuzhgdmkydsPUdwydwvbcpldzugnashwcxhlyoaxzwp
+[Debug] Result=998
+SRestaurant: ID 24  Customer: 998
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 2 TIME 41]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 3 TIME 90]	[ID 16 COUNT 4 TIME 101]	
+---------------------------------------------------
+LAPSE qqaazxrsezfmKwvxculmxdvsfyjmcpickwsqxycyiluthlgufrtuhotbttfweqvakmEjshjkqgBhnnyZgxhajr
+[Debug] Result=192
+SRestaurant: ID 18  Customer: 192
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 2 TIME 41]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 7 TIME 103]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 4 TIME 101]	
+---------------------------------------------------
+LAPSE nlvnbsxzdLbsGqTcdcZnpvgPksPAqhjpxOykzkkjgmbwritbfW
+[Debug] Result=682
+SRestaurant: ID 8  Customer: 682
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 2 TIME 41]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 4 TIME 101]	
+---------------------------------------------------
+LAPSE zpuiyxtwxtgfhyukeaxibuqpqafmWjaovgfgwzkngejlcjguozZousFhnwachbaxhzpkalkaqhctsqquZupbutigyvyCpkuiD
+[Debug] Result=640
+SRestaurant: ID 16  Customer: 640
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 2 TIME 41]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	
+---------------------------------------------------
+LAPSE rbvtmgurcwdtijmzs
+[Debug] Result=404
+SRestaurant: ID 5  Customer: 404
+---------------------------------------------------
+[ID 17 COUNT 1 TIME 107]	[ID 21 COUNT 1 TIME 109]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 2 COUNT 1 TIME 113]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 14 COUNT 2 TIME 72]	[ID 5 COUNT 3 TIME 120]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	
+---------------------------------------------------
+LAPSE obvklexahxoyrsdzkr
+[Debug] Result=466
+SRestaurant: ID 17  Customer: 466
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 17 COUNT 2 TIME 121]	[ID 5 COUNT 3 TIME 120]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	
+---------------------------------------------------
+LAPSE maoypbtqzatwbj
+[Debug] Result=880
+SRestaurant: ID 6  Customer: 880
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 1 TIME 122]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 4 TIME 94]	[ID 15 COUNT 4 TIME 71]	[ID 17 COUNT 2 TIME 121]	[ID 14 COUNT 2 TIME 72]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE qxvxwiiwfrewofSfllugpmyvijcvfbjoIcogakehkhfzowwsfeqkemrvrcjcbdgntfjidiiewaiiuhpg
+[Debug] Result=200
+SRestaurant: ID 1  Customer: 200
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 1 TIME 122]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 17 COUNT 2 TIME 121]	[ID 14 COUNT 2 TIME 72]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE cmTj
+[Debug] Result=180
+SRestaurant: ID 6  Customer: 180
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 17 COUNT 2 TIME 121]	[ID 6 COUNT 2 TIME 124]	[ID 23 COUNT 3 TIME 105]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE mqHfhkrjmwshTyssmyndhukrugqvjtjylgoyhud
+[Debug] Result=167
+LAPSE rnlohdybnmlogkeywwyivoedZvatlUeljalznbfuAzpdxfnjyfxhr
+[Debug] Result=315
+LAPSE lmrrygkrqsvbuxgrqzqjatfljmhnvxcnotkklyevxcgzbsgrjnhvstwltrkyqvrtmbaliyzcwlpgpyeqbWcjwl
+[Debug] Result=257
+LAPSE ermbexvxaojxirxbligylrvjynyqqoirhloklrAyfkwvljcyqfwutcxpfrenkfsfwgxrotomxgwvpnh
+[Debug] Result=957
+LAPSE jaBepydKktrxzSpbuCwbjijfVoqvugtmbvbieqzgezbjgmavofyqlakaqndkdysylx
+[Debug] Result=922
+SRestaurant: ID 23  Customer: 922
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 17 COUNT 2 TIME 121]	[ID 6 COUNT 2 TIME 124]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 6 TIME 104]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE figvvunwfgqhefzwwcluevuvjLfoakgbalyb
+[Debug] Result=706
+SRestaurant: ID 7  Customer: 706
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 17 COUNT 2 TIME 121]	[ID 6 COUNT 2 TIME 124]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 6 TIME 112]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE o
+LAPSE bIedovjstbtmlrushggpvgclyxeohhvmUvqxtkeTifibnfxhmazvqWhkrfalauTmzslqtjppursgdphcnuvcvkjogadtuqhbdzf
+[Debug] Result=468
+SRestaurant: ID 19  Customer: 468
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 17 COUNT 2 TIME 121]	[ID 6 COUNT 2 TIME 124]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 7 TIME 127]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 3 TIME 92]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE succrygvfriehtmijhitxbaxorkdfkzftknsnkofooegkfmzuzgrmpqcskeafbizdpeehhzcnvsycibfuj
+[Debug] Result=719
+LAPSE eflxpyobnckifnbrcdcgogcdktjlsnfazlhskmtxanivaqprzwbijrkaprqmqpqodvkigrrlsvolafxyzb
+[Debug] Result=766
+SRestaurant: ID 17  Customer: 766
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 2 COUNT 1 TIME 113]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 14 COUNT 2 TIME 72]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 6 COUNT 2 TIME 124]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 7 TIME 127]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 17 COUNT 3 TIME 128]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE cqvmgmnxndhbjg
+[Debug] Result=181
+LAPSE dysirmxawunmrlsrqkvfwcqDgvcgwovhdictywuadiawpBadcqtMeszqdsfQcdxpjezighprzuazdcoeotyjotpgfrisvzfe
+[Debug] Result=726
+SRestaurant: ID 2  Customer: 726
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 2 COUNT 2 TIME 129]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 7 TIME 127]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 17 COUNT 3 TIME 128]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE hkwbDgrfuslceoafabxkxzluAyklultakbnvjccerxafmiifsevq
+[Debug] Result=68
+SRestaurant: ID 19  Customer: 68
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 4 TIME 71]	[ID 13 COUNT 3 TIME 92]	[ID 2 COUNT 2 TIME 129]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 17 COUNT 3 TIME 128]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE xplrThxkkykwapwSaqqwmefqskwpwmZezhatobzfbpzljjgkiccXyrwkrkjcwc
+[Debug] Result=514
+SRestaurant: ID 15  Customer: 514
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 5 TIME 131]	[ID 13 COUNT 3 TIME 92]	[ID 2 COUNT 2 TIME 129]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 17 COUNT 3 TIME 128]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE vlzluynjdPchvCbkVwkanh
+[Debug] Result=863
+CLEAVE 15
+21-20
+14-638
+14-688
+9-958
+9-208
+9-308
+1-200
+1-300
+1-450
+1-750
+1-450
+19-68
+19-468
+19-418
+19-418
+19-568
+19-218
+19-218
+19-68
+8-682
+8-132
+8-932
+8-232
+8-632
+8-882
+8-182
+8-432
+15-514
+15-814
+15-614
+15-514
+15-1014
+4-228
+4-478
+4-778
+4-978
+4-478
+4-28
+4-478
+4-678
+7-706
+7-406
+7-56
+7-6
+7-506
+7-656
+7-406
+6-180
+6-880
+13-112
+13-1012
+13-912
+17-766
+17-466
+17-416
+18-192
+18-942
+18-142
+18-942
+2-726
+2-176
+16-640
+16-890
+16-840
+16-990
+16-940
+5-404
+5-54
+5-754
+12-886
+12-686
+22-446
+22-946
+22-46
+23-922
+23-722
+23-922
+23-822
+25-924
+25-524
+25-24
+25-874
+25-724
+24-998
+24-548
+24-398
+24-348
+24-848
+10-234
+10-984
+10-684
+10-584
+10-434
+10-284
+10-634
+10-184
+10-984
+11-110
+11-410
+11-160
+11-460
+11-510
+11-410
+LAPSE bozqLgtpkydjswmudksxzypvgdzZbkljr
+[Debug] Result=162
+SRestaurant: ID 13  Customer: 162
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 5 TIME 131]	[ID 17 COUNT 3 TIME 128]	[ID 2 COUNT 2 TIME 129]	[ID 23 COUNT 4 TIME 125]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 4 TIME 132]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE olewdkzHpaarkzdmjupyldpkozbbKjmiiqrpqfSogvkmakztjcGumwqahgllAuqifuzdjtzuijqwiIisikkruhnjnucwpeXs
+[Debug] Result=865
+LAPSE hidimdnjrkvykmfcuwcblibbbpjhvkpnjdxdydj
+[Debug] Result=7
+LAPSE kjhryuasegwpuasinxdbricfzuyebuifngjtjkLirnikthjlwlpydzdixbwhxnljgttfoxanvsdhszynzYGhqi
+[Debug] Result=872
+SRestaurant: ID 23  Customer: 872
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 22 COUNT 3 TIME 42]	[ID 24 COUNT 5 TIME 116]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 5 TIME 131]	[ID 17 COUNT 3 TIME 128]	[ID 2 COUNT 2 TIME 129]	[ID 23 COUNT 5 TIME 133]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 11 COUNT 6 TIME 110]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 4 TIME 132]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE ebhtvcjfcwxaytlnkpslchlhmfdzXkjacbfrx
+[Debug] Result=498
+SRestaurant: ID 24  Customer: 498
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 22 COUNT 3 TIME 42]	[ID 11 COUNT 6 TIME 110]	[ID 1 COUNT 5 TIME 123]	[ID 15 COUNT 5 TIME 131]	[ID 17 COUNT 3 TIME 128]	[ID 2 COUNT 2 TIME 129]	[ID 23 COUNT 5 TIME 133]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 24 COUNT 6 TIME 134]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 4 TIME 132]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE ckhcneamlfeonljcitmanmxwjidwpnknyzigcpcslezrmrjppopthobxfjjqvqnzzxvkgffeetnwhfxsjmugkpamaAxkhfauNNjn
+[Debug] Result=550
+SRestaurant: ID 1  Customer: 550
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 22 COUNT 3 TIME 42]	[ID 11 COUNT 6 TIME 110]	[ID 1 COUNT 6 TIME 135]	[ID 15 COUNT 5 TIME 131]	[ID 17 COUNT 3 TIME 128]	[ID 2 COUNT 2 TIME 129]	[ID 23 COUNT 5 TIME 133]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 24 COUNT 6 TIME 134]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 4 TIME 132]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	
+---------------------------------------------------
+LAPSE oSszaauerdyfzgkokhjdtoiqKctlqozXbtywwauwswkfwfbHgyjewibdlfdpqkt
+[Debug] Result=494
+SRestaurant: ID 20  Customer: 494
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 20 COUNT 1 TIME 136]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 6 TIME 110]	[ID 1 COUNT 6 TIME 135]	[ID 15 COUNT 5 TIME 131]	[ID 17 COUNT 3 TIME 128]	[ID 2 COUNT 2 TIME 129]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 24 COUNT 6 TIME 134]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 8 TIME 118]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 4 TIME 132]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	[ID 23 COUNT 5 TIME 133]	
+---------------------------------------------------
+LAPSE nhoiwubMzxycquurgjGquwptxqtryopvcjzwbjpkonwjuhvwjbalgq
+[Debug] Result=532
+SRestaurant: ID 8  Customer: 532
+---------------------------------------------------
+[ID 21 COUNT 1 TIME 109]	[ID 14 COUNT 2 TIME 72]	[ID 20 COUNT 1 TIME 136]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 12 COUNT 2 TIME 63]	[ID 11 COUNT 6 TIME 110]	[ID 1 COUNT 6 TIME 135]	[ID 15 COUNT 5 TIME 131]	[ID 17 COUNT 3 TIME 128]	[ID 2 COUNT 2 TIME 129]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 24 COUNT 6 TIME 134]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 9 TIME 137]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 4 TIME 132]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	[ID 23 COUNT 5 TIME 133]	
+---------------------------------------------------
+LAPSE wjtydvecitzqtokzmbhrldctethjzbpexdmniopavedbttbivixzjdsxffzuaqrgtbSp
+[Debug] Result=870
+SRestaurant: ID 21  Customer: 870
+---------------------------------------------------
+[ID 20 COUNT 1 TIME 136]	[ID 14 COUNT 2 TIME 72]	[ID 12 COUNT 2 TIME 63]	[ID 9 COUNT 3 TIME 99]	[ID 6 COUNT 2 TIME 124]	[ID 21 COUNT 2 TIME 138]	[ID 11 COUNT 6 TIME 110]	[ID 1 COUNT 6 TIME 135]	[ID 15 COUNT 5 TIME 131]	[ID 17 COUNT 3 TIME 128]	[ID 2 COUNT 2 TIME 129]	[ID 22 COUNT 3 TIME 42]	[ID 25 COUNT 5 TIME 88]	[ID 10 COUNT 9 TIME 115]	[ID 24 COUNT 6 TIME 134]	[ID 19 COUNT 8 TIME 130]	[ID 8 COUNT 9 TIME 137]	[ID 4 COUNT 8 TIME 111]	[ID 7 COUNT 7 TIME 126]	[ID 13 COUNT 4 TIME 132]	[ID 18 COUNT 4 TIME 117]	[ID 16 COUNT 5 TIME 119]	[ID 5 COUNT 3 TIME 120]	[ID 23 COUNT 5 TIME 133]	
+---------------------------------------------------
+HAND
+a
+6
+h
+12
+o
+6
+t
+27
+j
+4
+q
+8
+l
+2
+v
+4
+x
+2
+z
+17
+i
+14
+g
+10
+s
+15
+y
+6
+T
+3
+c
+13
+e
+11
+b
+11
+m
+LIMITLESS 25
+349
+KOKUSEN
+CLEAVE 25
+20-494
+14-638
+14-688
+9-958
+9-208
+9-308
+1-550
+1-200
+1-300
+1-450
+1-750
+1-450
+19-68
+19-468
+19-418
+19-418
+19-568
+19-218
+19-218
+19-68
+8-532
+8-682
+8-132
+8-932
+8-232
+8-632
+8-882
+8-182
+8-432
+15-514
+15-814
+15-614
+15-514
+15-1014
+4-228
+4-478
+4-778
+4-978
+4-478
+4-28
+4-478
+4-678
+7-706
+7-406
+7-56
+7-6
+7-506
+7-656
+7-406
+6-180
+6-880
+17-766
+17-466
+17-416
+13-162
+13-112
+13-1012
+13-912
+18-192
+18-942
+18-142
+18-942
+2-726
+2-176
+16-640
+16-890
+16-840
+16-990
+16-940
+5-404
+5-54
+5-754
+12-886
+12-686
+21-870
+21-20
+22-446
+22-946
+22-46
+23-872
+23-922
+23-722
+23-922
+23-822
+25-924
+25-524
+25-24
+25-874
+25-724
+11-110
+11-410
+11-160
+11-460
+11-510
+11-410
+10-234
+10-984
+10-684
+10-584
+10-434
+10-284
+10-634
+10-184
+10-984
+24-498
+24-998
+24-548
+24-398
+24-348
+24-848
+KEITEIKEN 25
+494-20
+686-12
+886-12
+688-14
+638-14
+880-6
+180-6
+176-2
+726-2
+20-21
+870-21
+46-22
+946-22
+446-22
+308-9
+208-9
+958-9
+754-5
+54-5
+404-5
+416-17
+466-17
+766-17
+942-18
+142-18
+942-18
+192-18
+912-13
+1012-13
+112-13
+162-13
+724-25
+874-25
+24-25
+524-25
+924-25
+940-16
+990-16
+840-16
+890-16
+640-16
+1014-15
+514-15
+614-15
+814-15
+514-15
+822-23
+922-23
+722-23
+922-23
+872-23
+410-11
+510-11
+460-11
+160-11
+410-11
+110-11
+848-24
+348-24
+398-24
+548-24
+998-24
+498-24
+450-1
+750-1
+450-1
+300-1
+200-1
+550-1
+406-7
+656-7
+506-7
+6-7
+56-7
+406-7
+706-7
+678-4
+478-4
+28-4
+478-4
+978-4
+778-4
+478-4
+228-4
+68-19
+218-19
+218-19
+568-19
+418-19
+418-19
+468-19
+68-19
+984-10
+184-10
+634-10
+284-10
+434-10
+584-10
+684-10
+984-10
+234-10
+432-8
+182-8
+882-8
+632-8
+232-8
+932-8
+132-8
+682-8
+532-8
